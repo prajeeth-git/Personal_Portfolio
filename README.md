@@ -1,16 +1,6 @@
+# Personal Portfolio
 
-# React Portfolio App
-
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-
-## Description
-
-This is a portfolio web application built using React.js. It showcases my projects and skills.
+Welcome to my personal portfolio! This project showcases my projects and skills
 
 ## Features
 
@@ -18,32 +8,34 @@ This is a portfolio web application built using React.js. It showcases my projec
 - **Skills Highlight:** Highlight your skills and technologies you're proficient in.
 - **About Me:** Share a brief introduction about yourself and your background.
 - **Contact Form:** Allow visitors to reach out to you through a contact form.
+- **Download CV:** Users can download my CV/resume directly from the portfolio.
+- **Live Demo:** Check out the live demo [here](https://prajeeth-portfolio.netlify.app/).
 
 ## Installation
 
 1. Clone the repository:
 
-```
-git clone https://github.com/your-username/react-portfolio.git
-```
+   ```
+   git clone https://github.com/prajeeth-git/Personal_Portfolio.git
+   ```
 
 2. Navigate to the project directory:
 
-```
-cd react-portfolio
-```
+   ```
+   cd Personal_Portfolio
+   ```
 
 3. Install dependencies:
 
-```
-npm install
-```
+   ```
+   npm install
+   ```
 
 4. Start the development server:
 
-```
-npm start
-```
+   ```
+   npm start
+   ```
 
 5. Open http://localhost:3000 in your browser to view the app.
 
@@ -52,3 +44,6 @@ npm start
 - Customize the content in the `src/components` directory to add your projects, skills, and about me section.
 - Modify the styles in the `src/styles` directory to match your preferences.
 - Update the contact form to connect it to your email or backend service.
+
+
+In the "Download CV" section, make sure to replace "#" with the actual URL to download your CV. Additionally, replace "https://your-live-demo-url.com" with the actual URL of your live demo.
