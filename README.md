@@ -10,7 +10,7 @@ Welcome to my personal portfolio! This project showcases my projects and skills
 - **About Me:** Share a brief introduction about yourself and your background.
 - **Contact Form:** Allow visitors to reach out to you through a contact form.
 - **Download CV:** Users can download my CV/resume directly from the portfolio.
-- **Live Demo:** Check out the live demo https://prajeeth-portfolio.netlify.app/.
+
 
 ## Installation
 
