@@ -42,7 +42,7 @@ const Portfolio = () => {
       description:
         "Crafted a sleek portfolio website using React.js, showcasing projects and skills in an intuitive user interface. Leveraged React's component-based architecture for seamless navigation and dynamic content presentation.",
       technologies: "Html | CSS | JavaScript | React Js",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
+      github: "https://github.com/prajeeth-git/Personal_Portfolio.git",
     }
   ];
 
