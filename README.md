@@ -43,6 +43,6 @@ Welcome to my personal portfolio! This project showcases my projects and skills
 ## Usage
 
 - Customize the content in the `src/components` directory to add your projects, skills, and about me section.
-- Modify the styles in the `src/styles` directory to match your preferences.
+- Add images to the assets in the `src/assets` directory to include media files .
 - Update the contact form to connect it to your email or backend service.
 
