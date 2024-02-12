@@ -1,4 +1,5 @@
-# Personal Portfolio
+# Live Demo : https://prajeeth-portfolio.netlify.app/
+## Personal Portfolio
 
 Welcome to my personal portfolio! This project showcases my projects and skills
 
@@ -9,7 +10,7 @@ Welcome to my personal portfolio! This project showcases my projects and skills
 - **About Me:** Share a brief introduction about yourself and your background.
 - **Contact Form:** Allow visitors to reach out to you through a contact form.
 - **Download CV:** Users can download my CV/resume directly from the portfolio.
-- **Live Demo:** Check out the live demo [here](https://prajeeth-portfolio.netlify.app/).
+- **Live Demo:** Check out the live demo https://prajeeth-portfolio.netlify.app/.
 
 ## Installation
 
@@ -45,5 +46,3 @@ Welcome to my personal portfolio! This project showcases my projects and skills
 - Modify the styles in the `src/styles` directory to match your preferences.
 - Update the contact form to connect it to your email or backend service.
 
-
-In the "Download CV" section, make sure to replace "#" with the actual URL to download your CV. Additionally, replace "https://your-live-demo-url.com" with the actual URL of your live demo.
